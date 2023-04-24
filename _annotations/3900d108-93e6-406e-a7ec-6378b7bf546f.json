@@ -1,0 +1,33 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/segIns_020"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis porttitor elit. Phasellus ante quam, fringilla eu urna a, porttitor tempus turpis. Vivamus eget consequat urna. Curabitur urna purus, pulvinar sit amet congue nec, elementum ac sapien. Cras quis facilisis magna. Ut mattis non nulla at porta. Sed elementum metus eu scelerisque tempus. Sed pulvinar tellus ac urna consectetur, non consectetur urna venenatis. Vivamus nec lorem malesuada, commodo libero in, molestie leo. Praesent semper scelerisque nisi, id feugiat ligula ullamcorper ut. Aenean purus sem, consequat a tempor sit amet, interdum sed orci. Curabitur luctus, turpis ut varius gravida, nunc massa convallis felis, sit amet egestas nisl elit sed ligula. Donec varius tellus nisi, sit amet tempus enim luctus eget. Aliquam sed arcu varius augue pellentesque tempus scelerisque at eros.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "robincamille",
+                "name": "Robin Camille Davis"
+            },
+            "created": "2023-04-24T18:45:29.700Z"
+        }
+    ],
+    "target": {
+        "source": "https://d.lib.ncsu.edu/collections/canvas/segIns_020",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"4249.3729248046875\" cy=\"2377.47607421875\" r=\"1869.737374494651\"></circle></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://d.lib.ncsu.edu/collections/catalog/segIns_020/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3900d108-93e6-406e-a7ec-6378b7bf546f.json",
+    "motivation": "commenting"
+}
