@@ -1,0 +1,30 @@
+---
+canvas: "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "myt",
+            "purpose": "commenting",
+            "creator": {
+                "id": "robincamille",
+                "name": "Robin Camille Davis"
+            },
+            "created": "2023-04-25T17:26:41.454Z",
+            "modified": "2023-04-25T17:26:41.677Z"
+        }
+    ],
+    "target": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"315.0943603515625,89.15094757080078 406.1321105957031,121.6981201171875 380.660400390625,176.41510009765625 330.1886901855469,182.54718017578125 330.1886901855469,182.54718017578125\"></polygon></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c1fca92f-ba66-4d80-92aa-1b21bfaf8cae.json",
+    "motivation": "commenting"
+}
