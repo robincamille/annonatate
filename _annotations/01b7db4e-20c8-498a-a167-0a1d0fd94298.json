@@ -1,0 +1,34 @@
+---
+canvas: "https://media.nga.gov/public/manifests/canvas/106382.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "ojouvmkszgjoirawb",
+            "purpose": "commenting",
+            "creator": {
+                "id": "robincamille",
+                "name": "Robin Camille Davis"
+            },
+            "created": "2023-04-28T19:27:50.709Z",
+            "modified": "2023-04-28T19:27:52.400Z"
+        }
+    ],
+    "target": {
+        "source": "https://media.nga.gov/public/manifests/canvas/106382.json",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"6249.41357421875,4494.45458984375 6271.5537109375,4494.45458984375 5408.0869140625,6221.38818359375 14374.8564453125,7660.4990234375 13754.931640625,4383.75390625 13754.931640625,4405.89404296875\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://media.nga.gov/public/manifests/nga_highlights.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "01b7db4e-20c8-498a-a167-0a1d0fd94298.json",
+    "motivation": "commenting"
+}
