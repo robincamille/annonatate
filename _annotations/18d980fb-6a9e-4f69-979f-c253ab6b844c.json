@@ -1,0 +1,35 @@
+---
+canvas: "https://robincamille.github.io/annonatate/img/derivatives/iiif/KIC2/canvas/KIC2-1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis porttitor elit. Phasellus ante quam, fringilla eu urna a, porttitor tempus turpis. Vivamus eget consequat urna. Curabitur urna purus, pulvinar sit amet congue nec, elementum ac sapien. Cras quis facilisis magna. Ut mattis non nulla at porta. Sed elementum metus eu scelerisque tempus. Sed pulvinar tellus ac urna consectetur, non consectetur urna venenatis. Vivamus nec lorem malesuada, commodo libero in, molestie leo. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "robincamille",
+                "name": "Robin Camille Davis"
+            },
+            "created": "2023-06-21T15:08:38.910Z",
+            "modified": "2023-06-21T15:08:40.383Z"
+        }
+    ],
+    "target": {
+        "source": "https://robincamille.github.io/annonatate/img/derivatives/iiif/KIC2/canvas/KIC2-1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=919.9221801757812,1457.755859375,1026.8468627929688,971.837158203125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://robincamille.github.io/annonatate/img/derivatives/iiif/KIC2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "18d980fb-6a9e-4f69-979f-c253ab6b844c.json",
+    "motivation": "commenting"
+}
